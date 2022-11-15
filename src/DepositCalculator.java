@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;       // отличный Code style, комментировать нечего!
 
 public class DepositCalculator {
     double calculateComplexPercent(double amount, double yearRate, int depositPeriod) {
